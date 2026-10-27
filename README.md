@@ -44,6 +44,6 @@ The choice depends on the application's goals. CSR is a practical choice for thi
 
 ## Deployment
 
-Live deployment: Add your deployed website URL here.
+Live deployment: 
 
-GitHub repository: Add your repository URL here.
+
