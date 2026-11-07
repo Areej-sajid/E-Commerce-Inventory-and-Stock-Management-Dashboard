@@ -44,6 +44,6 @@ The choice depends on the application's goals. CSR is a practical choice for thi
 
 ## Deployment
 
-Live deployment: 
+Live deployment: https://e-commerce-inventory-and-stock-mana.vercel.app/
 
 
